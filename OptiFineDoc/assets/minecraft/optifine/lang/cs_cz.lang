@@ -2,9 +2,9 @@
 of.general.ambiguous=dvojznačný
 of.general.custom=Vlastní
 of.general.from=Z
-of.general.id=Id
+of.general.id=ID
 of.general.restart=restart
-of.general.smart=Chytrá
+of.general.smart=Chytrý
 
 # Klávesy
 of.key.zoom=Přiblížení
@@ -63,9 +63,9 @@ options.renderDistance.tooltip.2=  2 Maličký - 32m (nejrychlejší)
 options.renderDistance.tooltip.3=  4 Malý - 64m (rychlejší)
 options.renderDistance.tooltip.4=  8 Normální - 128m
 options.renderDistance.tooltip.5=  16 Velký - 256m (pomalejší)
-options.renderDistance.tooltip.6=  32 Extrémní - 512m (nejpomalejší!)
+options.renderDistance.tooltip.6=  32 Extrémní - 512m (nejpomalejší)
 options.renderDistance.tooltip.7=Extrémní Viditelná vzdálenost je velmi výkonově náročná!
-options.renderDistance.tooltip.8=Hodnoty nad 16 Velká jsou pouze pro lokální světy.
+options.renderDistance.tooltip.8=Hodnoty nad 16 - Velká jsou pouze pro lokální světy.
 
 options.ao.tooltip.1=Vyhlazené osvětlení.
 options.ao.tooltip.2=  VYPNUTO - žádné vyhlazené osvětlení (rychlejší)
